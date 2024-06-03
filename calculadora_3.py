@@ -2,10 +2,10 @@ def calculator():
     while True:
         # Mostrar o menu de operações
         print("Selecione a operação:")
-        print("1: Soma")
-        print("2: Subtração")
-        print("3: Multiplicação")
-        print("4: Divisão")
+        print("1: Soma +")
+        print("2: Subtração -")
+        print("3: Multiplicação *")
+        print("4: Divisão /")
         print("0: Sair")
 
         # Solicitar a operação do usuário
